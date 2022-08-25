@@ -1,0 +1,14 @@
+name: GrantFormat
+title: GrantFormat
+username:
+account: epedapati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6844125
+bundleId: 6235436
+url: https://epedapati.shinyapps.io/GrantFormat/
+when: 1661391353.47524
+lastSyncTime: 1661391353.47526
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.docx
